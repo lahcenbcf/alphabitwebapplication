@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/alphabitwebapplication/static/css/main.1b9ade1d.css",
+    "main.js": "/alphabitwebapplication/static/js/main.d31ec138.js",
+    "static/media/ctf.JPG": "/alphabitwebapplication/static/media/ctf.a34bb873a65815d0b4d0.JPG",
+    "static/media/alpha3.1.png": "/alphabitwebapplication/static/media/alpha3.1.39c74851161f2186b0d4.png",
+    "static/media/hash.JPG": "/alphabitwebapplication/static/media/hash.9b21c9ccbbcdb6a3e210.JPG",
+    "static/media/AlphaLogo.png": "/alphabitwebapplication/static/media/AlphaLogo.22b2dc966ab665440804.png",
+    "static/media/hackathon.JPG": "/alphabitwebapplication/static/media/hackathon.f1b8c6e9cc2a7e20d742.JPG",
+    "static/media/startUp.JPG": "/alphabitwebapplication/static/media/startUp.246175d2857377276ef4.JPG",
+    "static/media/huwawei.JPG": "/alphabitwebapplication/static/media/huwawei.00af7966e61b7ded6148.JPG",
+    "static/media/undraw_Online_calendar_re_wk3t (1).png": "/alphabitwebapplication/static/media/undraw_Online_calendar_re_wk3t (1).d550c76ffe93985dd598.png",
+    "index.html": "/alphabitwebapplication/index.html",
+    "main.1b9ade1d.css.map": "/alphabitwebapplication/static/css/main.1b9ade1d.css.map",
+    "main.d31ec138.js.map": "/alphabitwebapplication/static/js/main.d31ec138.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b9ade1d.css",
+    "static/js/main.d31ec138.js"
+  ]
+}
